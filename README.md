@@ -14,7 +14,10 @@ As there isn't much material or comprehensive instruction available on configuri
 - Using CMAKE GUI to build your project
 - Using libTraci API
 - Windows Environment
-- Using the latest sources from SUMO GitHub repository `git clone --recursive https://github.com/eclipse-sumo/sumo`
+- cloned SUMO from SUMO GitHub repository 
+- CMAKE 3.28
+- c++ 17 Standard
+
 
 ## Getting Started:
 
