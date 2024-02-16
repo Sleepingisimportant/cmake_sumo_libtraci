@@ -22,7 +22,7 @@ As there isn't much material or comprehensive instruction available on configuri
 ## Getting Started:
 
 1. Clone SUMO from GitHub repository [here](https://github.com/eclipse-sumo/sumo).
-2. Clone SUMO Library from GitHub repository [here](https://github.com/DLR-TS/SUMOLibraries).
+2. Clone SUMO Library from GitHub repository [here](https://github.com/DLR-TS/SUMOLibraries). (They are neccesary libraries to run SUMO)
 3. Add System variables:
    - `SUMO_HOME`: location of SUMO
    - `SUMO_LIBRARIES`: location of SUMO Libraries
